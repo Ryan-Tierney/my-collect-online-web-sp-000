@@ -6,4 +6,4 @@ def my_collect(collection)
  end 
 end 
 
-my_collect(["Ryan", "Vanessa", "Gatlyn", "Aryan"]) { |name| puts {
+my_collect(["Ryan", "Vanessa", "Gatlyn", "Aryan"]) { |name| puts "Hi, #{name}"
