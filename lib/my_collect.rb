@@ -8,10 +8,12 @@ end
 
 my_collect(["Ryan", "Vanessa", "Gatlyn", "Aryan"])
 do |name| 
-  name.upcase 
+  name.upcase  
+ end 
 end 
   
 my_collect(["Ryan Tierney", "Vanessa Tierney"])
 d0 |name|
   name.split(" ").first
+ end 
 end 
