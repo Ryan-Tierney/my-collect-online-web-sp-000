@@ -8,9 +8,9 @@ end
 
 
 my_collect(collection) { |name| name.upcase} 
-  end 
+  
 
 
 
 my_collect(array) { |name| name.split(" ").first}
- end 
+ 
