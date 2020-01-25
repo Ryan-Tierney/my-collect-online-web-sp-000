@@ -13,7 +13,7 @@ do |name|
 end 
   
 my_collect(["Ryan Tierney", "Vanessa Tierney"])
-d0 |name|
+do |name|
   name.split(" ").first
  end 
 end 
