@@ -7,14 +7,11 @@ def my_collect(collection)
 end 
 
 
-my_collect(collection)
-do |name| name.upcase  
+my_collect(collection) { |name| name.upcase} 
   end 
- end 
 
 
 
-my_collect(array)
-do |name| name.split(" ").first
+my_collect(array) { |name| name.split(" ").first}
   end 
  end 
