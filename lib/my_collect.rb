@@ -8,5 +8,6 @@ def my_collect(array)
  name_collection
 end 
 
-
+my_collect(list 
+)
  
