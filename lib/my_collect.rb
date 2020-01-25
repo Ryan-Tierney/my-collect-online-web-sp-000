@@ -10,7 +10,5 @@ def my_collect(array)
  name_collection
 end 
 
-my_collect(list) do |name| name.split(" ").first 
-end 
-end 
+my_collect(list) { |name| name.split(" ").first}
  
