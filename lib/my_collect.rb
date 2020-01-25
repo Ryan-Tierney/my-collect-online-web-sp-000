@@ -12,7 +12,7 @@ do |name|
  end 
  end 
 
-  
+array = 
 my_collect(["Ryan Tierney", "Vanessa Tierney"])
 do |name|
   name.split(" ").first
