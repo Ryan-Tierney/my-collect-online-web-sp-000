@@ -8,14 +8,12 @@ end
 
 collection = ["Ryan", "Vanessa", "Gatlyn", "Aryan"]
 my_collect(collection)
-do |name| 
-  name.upcase  
+do |name| name.upcase  
  end 
  end 
 
 array = ["Ryan Tierney", "Vanessa Tierney"]
 my_collect(array)
-do |name|
-  name.split(" ").first
+do |name| name.split(" ").first
  end 
  end 
