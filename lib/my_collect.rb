@@ -6,4 +6,10 @@ def my_collect(collection)
  end 
 end 
 
-my_collect(["Ryan", "Vanessa", "Gatlyn", "Aryan"]) { |name| "Hi, #{name}" }
+my_collect(["Ryan", "Vanessa", "Gatlyn", "Aryan"])
+do |name| 
+  name.upcase 
+  
+my_collect(["Ryan Tierney", "Vanessa Tierney"])
+d0 |name|
+  name.split(" ").first
