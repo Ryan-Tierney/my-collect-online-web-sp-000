@@ -9,11 +9,13 @@ end
 collection = ["Ryan", "Vanessa", "Gatlyn", "Aryan"]
 my_collect(collection)
 do |name| name.upcase  
+  end 
  end 
- end 
+ end
 
 array = ["Ryan Tierney", "Vanessa Tierney"]
 my_collect(array)
 do |name| name.split(" ").first
+  end 
  end 
- end 
+end 
