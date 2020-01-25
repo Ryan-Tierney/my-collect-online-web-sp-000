@@ -14,7 +14,7 @@ do |name|
  end 
 
 array = ["Ryan Tierney", "Vanessa Tierney"]
-my_collect([array)
+my_collect(array)
 do |name|
   name.split(" ").first
  end 
