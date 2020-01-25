@@ -6,6 +6,7 @@ def my_collect(collection)
  end 
 end 
 
+collection = 
 my_collect(["Ryan", "Vanessa", "Gatlyn", "Aryan"])
 do |name| 
   name.upcase  
