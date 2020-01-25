@@ -6,8 +6,8 @@ def my_collect(collection)
  end 
 end 
 
-collection = 
-my_collect(["Ryan", "Vanessa", "Gatlyn", "Aryan"])
+collection = ["Ryan", "Vanessa", "Gatlyn", "Aryan"]
+my_collect(collection)
 do |name| 
   name.upcase  
  end 
