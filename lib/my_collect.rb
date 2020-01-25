@@ -1,5 +1,6 @@
 def my_collect(collection)
   i = 0 
-  while i 
+  while i < collection.length 
+  yield 
 end 
 
