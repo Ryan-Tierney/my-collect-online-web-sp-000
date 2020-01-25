@@ -6,4 +6,4 @@ def my_collect(collection)
  end 
 end 
 
-my_collec()
+my_collec(["Ryan", "Vanessa", "Gatlyn", "Aryan"])
