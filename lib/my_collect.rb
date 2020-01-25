@@ -1,4 +1,4 @@
-
+list = ["Tim Jones", "Bob Costas", "Don Knotts"]
 
 def my_collect(array)
   i = 0 
@@ -10,6 +10,5 @@ def my_collect(array)
  name_collection
 end 
 
-my_collect(list 
-)
+my_collect(list) do 
  
