@@ -13,5 +13,4 @@ my_collect(collection) { |name| name.upcase}
 
 
 my_collect(array) { |name| name.split(" ").first}
-  end 
  end 
