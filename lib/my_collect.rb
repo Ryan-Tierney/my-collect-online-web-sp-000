@@ -9,7 +9,9 @@ end
 my_collect(["Ryan", "Vanessa", "Gatlyn", "Aryan"])
 do |name| 
   name.upcase 
+end 
   
 my_collect(["Ryan Tierney", "Vanessa Tierney"])
 d0 |name|
   name.split(" ").first
+end 
